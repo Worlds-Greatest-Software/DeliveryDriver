@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Car.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Beetle.unity
-    guid: 3e1d1ddc5dbf1944da665f9adbf2d6a9
+    path: Assets/Scenes/Main Menu.unity
+    guid: a8ce70d9ddcd15745933f6803205fa0f
+  - enabled: 1
+    path: Assets/Scenes/BeetleArt.unity
+    guid: 9de949975b7c9df43aa68959e33809f8
   m_configObjects: {}
